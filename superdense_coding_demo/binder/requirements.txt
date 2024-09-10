@@ -1,0 +1,4 @@
+qiskit
+matplotlib
+nbgrader
+ipython
